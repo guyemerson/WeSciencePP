@@ -6,3 +6,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ## Acknowledgements
 The WeScience initiative has been supported by the University of Oslo, the Norwegian Open Research Archives, the Norwegian Metacenter for Computational Science, and the Norwegian Research Council.
+
+## Format
+The data is in the following format, one per line, delimited by spaces:
+<sentence ID(s)> <verb> <noun 1> <preposition> <noun 2> <attachment>
+Where there is more than one sentence ID, they are delimited by commas.
