@@ -9,5 +9,7 @@ The WeScience initiative has been supported by the University of Oslo, the Norwe
 
 ## Format
 The data is in the following format, one per line, delimited by spaces:
-<sentence ID(s)> <verb> <noun 1> <preposition> <noun 2> <attachment>
+
+&lt;sentence ID(s)> &lt;verb> &lt;noun 1> &lt;preposition> &lt;noun 2> &lt;attachment>
+
 Where there is more than one sentence ID, they are delimited by commas.
