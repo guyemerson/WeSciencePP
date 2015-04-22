@@ -1,5 +1,5 @@
 # WeSciencePP
-This repository contains data for prepositional phrase attachment, derived from the WeScience Treebank, which is described by [Ytrestøl, Flickinger, & Oepen (2009)](http://www.delph-in.net/wescience/tlt09.pdf).  The process of extracting PP-attachment information is described by Emerson & Copestake (2015).
+This repository contains data for prepositional phrase attachment, derived from the WeScience Treebank, which is described by [Ytrestøl, Flickinger, & Oepen (2009)](http://www.delph-in.net/wescience/tlt09.pdf).  The process of extracting PP-attachment information is described by [Emerson & Copestake (2015)](http://iwcs2015.github.io/static/proceedings/main/pdf/IWCS201501.pdf).
 
 ## License
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
